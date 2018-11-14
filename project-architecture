@@ -1,0 +1,12 @@
+/gulczewski-practice-architecture
+  ├── index.html
+  ├── /assets
+      ├── /css
+          └── style.css
+      ├── /img
+          ├── gulczewski-dataviz.png
+          ├── other-pic.jpg
+          └── another-pic.gif
+      ├── /fonts
+          ├── Norwester
+              ├── norwester.tff
